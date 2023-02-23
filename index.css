@@ -1,0 +1,57 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbar {
+    background-color: #EEEEEE ;
+    height: 63px;
+    margin-left: 75px;
+    margin-right: 75px;
+    text-align: center;
+}
+
+.specialsearches {
+    background-color: #7EE5DA;
+    width: 500px;
+    height: 60px;
+    margin-left: 75px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar {
+    background-color: #70CCC2;
+    width: 250px;
+    height: 60px;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+    font-size: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.subscribe {
+    background-color: #62B3AA;
+    width: 616px;
+    height: 60px;
+    margin-left: 2px;
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+    font-size: 11px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.copyright {
+    float: left;
+    margin-left: 650px;
+    font-size: 13px;
+}
